@@ -6,6 +6,9 @@ FoodWorld
 
 https://github.com/sapirxpike/web-project-g19-lastt.git
 
+(חשוב - הפסקה היחידה בעברית למבנה הקוד שעל פיו עבדנו)
+**תכנון ובניית הקוד נעשה לפי הדרך הנוחה ביותר בשבילנו לעבוד על הקוד ועל כל אחת מהתיקיות שהוא כולל. מיינו בכוונה תחילה את כל קבצי הCSS ,קבצי הTEMPLATES וקבצי הJS כל סוג של קובץ בתקיה שלו ( ולא לפי צורת ה-Skeleton ) מתוך נוחות שלנו לעבוד על הקוד וכל חלקיו. 	            הקוד מורץ מתוך קובץ app.py  ראשי שכולל את כל Routes  הרלוונטיים לנו ( ולא עפ"י מיון של כל דף באתר לDirectory  נפרד עם הקבצים המתאימים לו בכדי שנוכל לעבוד במקביל על כל חלקי הפרויקט.
+
 the managing around the webstie infront of the DB happens threw the supported classes
 
 
